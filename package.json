@@ -2,7 +2,7 @@
   "name": "homework-1",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "bin": {
     "app": "./index.js"
   },
@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "redline": "^1.0.1",
     "yargs": "^17.6.0"
   }
 }
